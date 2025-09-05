@@ -14,12 +14,14 @@ This project focuses on detecting fraudulent financial transactions using machin
 4. Built and compared multiple ML models: Logistic Regression, Random Forest, XGBoost, and LightGBM.
 5. Evaluated models using Precision, Recall, F1-score, and ROC-AUC.
 
-Achieved:
+6. Achieved:
 a. Logistic Regression: ~99% Recall, AUC ~0.9998
+
 b. Random Forest: ~99% Precision & Recall, F1 ~99%, AUC ~0.9988
+
 c. XGBoost & LightGBM: High overall performance with strong fraud detection.
 
-6. Identified key fraud indicators such as missing balances, high-value transfers, and emptied accounts, providing actionable prevention strategies.
+8. Identified key fraud indicators such as missing balances, high-value transfers, and emptied accounts, providing actionable prevention strategies.
 
 ---
 
