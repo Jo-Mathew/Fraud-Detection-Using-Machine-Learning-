@@ -8,17 +8,18 @@ This project focuses on detecting fraudulent financial transactions using machin
 
 🔑 Key Highlights
 
-Analyzed 6M+ financial transactions with severe class imbalance.
-Performed data cleaning, feature engineering (day/hour extraction, behavioral ratios), and EDA to uncover fraud patterns.
-Applied SMOTE to balance classes and improve fraud detection on minority class.
-Built and compared multiple ML models: Logistic Regression, Random Forest, XGBoost, and LightGBM.
-Evaluated models using Precision, Recall, F1-score, and ROC-AUC.
-Achieved:
-Logistic Regression: ~99% Recall, AUC ~0.9998
-Random Forest: ~99% Precision & Recall, F1 ~99%, AUC ~0.9988
-XGBoost & LightGBM: High overall performance with strong fraud detection.
+1. Analyzed 6M+ financial transactions with severe class imbalance.
+2. Performed data cleaning, feature engineering (day/hour extraction, behavioral ratios), and EDA to uncover fraud patterns.
+3. Applied SMOTE to balance classes and improve fraud detection on minority class.
+4. Built and compared multiple ML models: Logistic Regression, Random Forest, XGBoost, and LightGBM.
+5. Evaluated models using Precision, Recall, F1-score, and ROC-AUC.
 
-Identified key fraud indicators such as missing balances, high-value transfers, and emptied accounts, providing actionable prevention strategies.
+Achieved:
+a. Logistic Regression: ~99% Recall, AUC ~0.9998
+b. Random Forest: ~99% Precision & Recall, F1 ~99%, AUC ~0.9988
+c. XGBoost & LightGBM: High overall performance with strong fraud detection.
+
+6. Identified key fraud indicators such as missing balances, high-value transfers, and emptied accounts, providing actionable prevention strategies.
 
 ---
 
